@@ -1,0 +1,3 @@
+[submodule "Unity_SerialPort"]
+	path = Unity_SerialPort
+	url = git@github.com:dyadica/Unity_SerialPort.git

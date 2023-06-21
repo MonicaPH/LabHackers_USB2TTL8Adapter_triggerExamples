@@ -13,3 +13,17 @@ Tested with Python 3 on macOS.
 
 `/matlab/labHackersTest.mlx`
 Tested (live script) in Matlab 2022b on macOS.
+
+`/Unity_SerialPort/Unity_SerialPort`
+Tested in Unity 2021.3.15f1 on macOS.
+
+*Works with Arduino, but not with LabHackers.*
+
+To get the Unity SerialPort example you need to clone the repository with the --recursive option:
+```
+git clone --recursive git@github.com:MonicaPH/LabHackers_USB2TTL8Adapter_triggerExamples.git
+```
+or update the submodule later:
+```
+git submodule update --init
+```
