@@ -7,4 +7,4 @@ Tested with Processing 4 on macOS.
 `/python/labHackers.py`
 Tested with Python 3 on macOS.
 
-[USB2TTL8](https://www.labhackers.com/usb2ttl8.html)
+[USB2TTL8]:https://www.labhackers.com/usb2ttl8.html
