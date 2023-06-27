@@ -19,6 +19,11 @@ Tested in Unity 2021.3.15f1 on macOS.
 
 Note: *Set baud rate to 128000 and enable Dtr flag.*
 
+The example will send messages when pressing spacebar while entering text.
+
+It is better to copy and paste the desired command to avoid sending incomplete commands.
+
+
 To get the Unity SerialPort example you need to clone the repository with the --recursive option:
 ```
 git clone --recursive git@github.com:MonicaPH/LabHackers_USB2TTL8Adapter_triggerExamples.git
