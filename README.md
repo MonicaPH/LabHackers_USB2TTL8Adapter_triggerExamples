@@ -9,15 +9,15 @@ Tested with Python 3 on macOS.
 
 [USB2TTL8]:https://www.labhackers.com/usb2ttl8.html
 
-### Does not work (yet)
-
 `/matlab/labHackersTest.mlx`
 Tested (live script) in Matlab 2022b on macOS.
+
+Note: *Works with baud rates of 115200 or less.*
 
 `/Unity_SerialPort/Unity_SerialPort`
 Tested in Unity 2021.3.15f1 on macOS.
 
-*Works with Arduino, but not with LabHackers.*
+Note: *Set baud rate to 128000 and enable Dtr flag.*
 
 To get the Unity SerialPort example you need to clone the repository with the --recursive option:
 ```
