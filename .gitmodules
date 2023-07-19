@@ -1,3 +1,6 @@
 [submodule "Unity_SerialPort"]
 	path = Unity_SerialPort
 	url = git@github.com:dyadica/Unity_SerialPort.git
+[submodule "UnityTriggerExample"]
+	path = UnityTriggerExample
+	url = git@github.com:yuk4869/USB2TTL8Adapter_triggerExamples.git
